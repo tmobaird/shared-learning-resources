@@ -1,3 +1,7 @@
+# Shared Learning Resources
+
+These are a list of OSS resources that are helpful for Ruby on Rails + React teams.
+
 ### Rails
 - [Building a friends list - Rails Tutorial (youtube)](https://www.youtube.com/watch?v=fmyvWz5TUWg)
     - The beginning is a good intro of what you will build, but you can generally skip to 28:13 if you already have a set up Ruby + Node environment.
