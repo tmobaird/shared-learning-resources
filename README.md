@@ -40,7 +40,9 @@ These are a list of OSS resources that are helpful for Ruby on Rails + React tea
 - [Codecademy - React Testing](https://www.codecademy.com/learn/learn-react-testing)
 
 ### Tooling
-- [Docker setup for Kafka](https://github.com/conduktor/kafka-stack-docker-compose)
+- Kafka
+    - [Docker setup for Kafka](https://github.com/conduktor/kafka-stack-docker-compose)
+    - [Understanding kafka](https://www.gentlydownthe.stream/)
 - [Postgres.app](https://postgres.app/)
 
 ### PCF
