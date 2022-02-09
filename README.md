@@ -47,5 +47,4 @@ These are a list of OSS resources that are helpful for Ruby on Rails + React tea
  
 
 ### General Reading materials
-- [Reading List](https://git.uscis.dhs.gov/DIDIT/global_team/wiki/Reading-List)
-- [The most important from the reading list for engineers](https://quii.dev/How_to_go_fast)
+- [How to go fast](https://quii.dev/How_to_go_fast)
