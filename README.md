@@ -39,12 +39,12 @@ These are a list of OSS resources that are helpful for Ruby on Rails + React tea
 - [Freecodecamp - React + Redux](https://www.freecodecamp.org/learn/front-end-development-libraries/#react-and-redux)
 - [Codecademy - React Testing](https://www.codecademy.com/learn/learn-react-testing)
 
- 
+### Tooling
+- [Docker setup for Kafka](https://github.com/conduktor/kafka-stack-docker-compose)
+- [Postgres.app](https://postgres.app/)
 
 ### PCF
 - [Watch a CF Push (video)](https://www.youtube.com/watch?v=E06Jw0UqU14)
-
- 
 
 ### General Reading materials
 - [How to go fast](https://quii.dev/How_to_go_fast)
