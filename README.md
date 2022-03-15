@@ -5,6 +5,7 @@ These are a list of OSS resources that are helpful for Ruby on Rails + React tea
 ### Rails
 - [Building a friends list - Rails Tutorial (youtube)](https://www.youtube.com/watch?v=fmyvWz5TUWg)
     - The beginning is a good intro of what you will build, but you can generally skip to 28:13 if you already have a set up Ruby + Node environment.
+- [Odin Project - Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails?)
 
 ### Ruby
 - [Learn ruby in 20 minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
