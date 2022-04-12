@@ -14,6 +14,7 @@ These are a list of OSS resources that are helpful for Ruby on Rails + React tea
 - [The Definitive RSpec Tutorial](https://www.rubyguides.com/2018/07/rspec-tutorial/)
 - [RSpec TDD Basics (youtube)](https://www.youtube.com/watch?v=K6RPMhcRICE)
 - [RSpec Mocking and Stubbing (youtube)](https://www.youtube.com/watch?v=ciVXLf6YnUE)
+- [Getting Started with RSpec](https://semaphoreci.com/community/tutorials/getting-started-with-rspec)
 
 ### Important/Influential Ruby Gems
 - [Devise](https://github.com/heartcombo/devise)
